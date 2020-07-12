@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Contact Management System</string>
+    <string name="stringAppName">Contact Management System</string>
+    <string name="stringContactRowName">Name :</string>
+    <string name="stringRandom">XXXXXXXXXXXX</string>
+    <string name="stringDropTable">\" DROP TABLE IF EXISTS\"</string>
+    <string name="StringNameLabel">Name :</string>
+    <string name="StringPhoneLabel">Phone :</string>
+</resources>
